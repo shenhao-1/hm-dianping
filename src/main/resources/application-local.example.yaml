@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: change-me
+  redis:
+    password: change-me
